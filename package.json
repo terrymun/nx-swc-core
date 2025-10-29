@@ -7,9 +7,9 @@
   "dependencies": {},
   "devDependencies": {
     "@nx/js": "22.0.2",
-    "@swc-node/register": "~1.9.1",
-    "@swc/core": "~1.5.7",
-    "@swc/helpers": "~0.5.11",
+    "@swc-node/register": "1.10.9",
+    "@swc/core": "1.13.20",
+    "@swc/helpers": "0.5.17",
     "nx": "22.0.2",
     "tslib": "^2.3.0",
     "typescript": "~5.9.2"
